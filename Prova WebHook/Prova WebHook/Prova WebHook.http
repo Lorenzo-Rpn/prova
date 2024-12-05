@@ -1,0 +1,6 @@
+@Prova_WebHook_HostAddress = http://localhost:5124
+
+GET {{Prova_WebHook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
